@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
 
 # Load the data (replace 'your_data.csv' with your actual file)
-data = pd.read_csv('your_data.csv')
+data = pd.read_csv('telco_customer-churn.csv')
 
 # Separate features and target variable
 X = data.drop('Churn', axis=1)

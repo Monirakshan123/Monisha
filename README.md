@@ -227,11 +227,5 @@ For comprehensive deployment guidelines tailored to your selected hosting servic
 2. Explore and analyze the dataset attributes and patterns.
 3. Utilize the dataset for Telco Customer Churn Classification analysis.
 
-Feel free to adapt the above steps based on your specific use case and programming environment.
-
----
-
-### Connect With Me 
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/) [![GitHub](https://img.shields.io/badge/GitHub-Viraj%20Bhutada-2b3137?logo=github)](https://github.com/virajbhutada)**
+Feel free to adapt the above steps based on your specific use case and programming environment
 
